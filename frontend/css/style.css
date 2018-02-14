@@ -1,0 +1,28 @@
+ul li {
+  list-style: none;
+}
+
+img {
+  max-width: 200px;
+}
+
+#drinks-wrapper {
+  max-width: 500px;
+}
+
+.edit-form-wrapper, .create-form-wrapper {
+  max-width: 500px;
+}
+
+.ui.input {
+  display: block;
+  margin-top: 10px;
+}
+
+#submit {
+  margin-top: 20px;
+}
+
+#submit-edit-button {
+  margin-top: 20px;
+}
